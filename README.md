@@ -1,152 +1,108 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=65&lines=Hey%2C+I'm+LatenT.;Cybersecurity+%2F%2F+Software+Development;Building.+Learning.+Experimenting." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:242424&height=220&section=header&text=LatenT&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20Software%20Development%20%7C%20Security%20Research&descAlignY=60&descSize=15&descColor=bdbdbd" width="100%"/>
 
-<br>
-
-<p>
-  <a href="https://github.com/LattesGit">
-    <img src="https://img.shields.io/badge/GitHub-LattesGit-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://waresbot.netlify.app">
-    <img src="https://img.shields.io/badge/WARE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="mailto:latentbset@gmail.com">
-    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/LattesGit">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+security-focused+software;Learning+how+systems+work+under+the+hood;Turning+ideas+into+practical+tools;Always+learning%2C+always+building." />
+</a>
 
 </div>
 
-<br>
+---
 
-## About
+## About Me
 
-I'm **LatenT**, a self-taught developer with a strong interest in cybersecurity, systems, networking, and software development.
+I'm **LatenT**, a self-taught developer interested in cybersecurity, systems, and software development.
 
-I prefer learning by actually building things rather than following a purely theoretical path. When I become interested in a technology, I like to understand how it works internally, experiment with it, and eventually turn what I learned into something useful.
+I learn by building things, experimenting with technology, and understanding why systems behave the way they do.
 
-My main language is **Python**, which I use for automation, tooling, experimentation, and security-related projects. I'm also exploring **Go, C, C#, JavaScript, and Bash**.
+My main language is **Python**, but I also work with **Go, C, C#, JavaScript, and Bash**.
 
-Outside of programming, most of my learning revolves around understanding systems, networks, security concepts, and how different pieces of software interact.
+```text
+Focus       → Cybersecurity · Systems · Software
+Approach    → Build · Experiment · Research
+Main Stack  → Python · Linux · Git
+Current     → Security tooling · WARE · Networking
+```
 
-<br>
+---
 
-<div align="center">
-
-### What I'm Into
-
-**Cybersecurity** · **Systems** · **Networking** · **Automation** · **Software Development**
-
-</div>
-
-<br>
-
-## What I'm Working On
+## What I'm Building
 
 ### WARE
 
-<div align="center">
+A security-focused project combining a Discord bot and web platform around **Roblox FFlag analysis**.
 
-<a href="https://waresbot.netlify.app">
+**Website:** https://waresbot.netlify.app
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:06B6D4&height=105&text=WARE&fontSize=44&fontColor=ffffff"/>
+---
 
-</a>
-
-<br><br>
-
-**Security-focused Discord + Web ecosystem**
-
-</div>
-
-WARE is one of my main ongoing projects, combining a Discord bot with a web platform around Roblox FFlag analysis and related tooling.
-
-**Website →** [waresbot.netlify.app](https://waresbot.netlify.app)
-
-<br>
-
-## Tech Stack
+## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,c,cs,js,bash,linux,git,github,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,go,c,cs,js,bash,linux,git,github,vscode&perline=10" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-| Area            | Technologies                                 |
-| :-------------- | :------------------------------------------- |
-| **Languages**   | Python · Go · C · C# · JavaScript · Bash     |
-| **Environment** | Linux · Git · GitHub · VS Code               |
-| **Interests**   | Security · Networking · Systems · Automation |
-
-</div>
-
-<br>
+---
 
 ## Currently Learning
 
-I'm continuously expanding my knowledge rather than focusing on a single specialization.
+<div align="center">
 
-* Security research and practical cybersecurity
-* Network protocols and traffic analysis
-* Linux and system internals
-* Security automation
-* Software architecture and cleaner code
-* Lower-level programming concepts
+`Cybersecurity` · `Networking` · `Security Research` · `Systems` · `Automation`
 
-<br>
+</div>
 
-## GitHub
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=LattesGit&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8&icon_color=06B6D4&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LattesGit&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LattesGit&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LattesGit&bg_color=0d1117&color=94A3B8&line=8B5CF6&point=06B6D4&area=true&hide_border=true" width="95%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LattesGit&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa" />
 
 </div>
 
 <br>
 
-## Connect
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LattesGit&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LattesGit&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
 <a href="https://github.com/LattesGit">
-<img src="https://img.shields.io/badge/GitHub-LattesGit-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-LattesGit-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@YOUR_TIKTOK">
-<img src="https://img.shields.io/badge/TikTok-YOUR_USERNAME-111827?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+&nbsp;
 <a href="https://waresbot.netlify.app">
-<img src="https://img.shields.io/badge/WARE-Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/WARE-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:latentbset@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Keep+building.;Keep+learning.;Keep+curious." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,50:111111,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
