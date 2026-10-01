@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=190&section=header&text=LatenT&fontSize=76&fontColor=ffffff&fontAlignY=50"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+LatenT.;Cybersecurity+%2B+Software+Development;Building+things+that+interest+me." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Cybersecurity+%C2%B7+Software+Development;Building+%C2%B7+Learning+%C2%B7+Experimenting;Python+%C2%B7+Linux+%C2%B7+Systems" />
+<img src="https://skillicons.dev/icons?i=python,go,c,cs,js,bash,linux,git&perline=8"/>
 
 <br><br>
 
+<a href="https://github.com/LattesGit">
+<img src="https://img.shields.io/badge/GitHub-LattesGit-18181B?style=flat-square&logo=github&logoColor=white"/>
+</a>
 <a href="https://waresbot.netlify.app">
 <img src="https://img.shields.io/badge/WARE-6366F1?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/LattesGit">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:latentbset@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=flat-square&logo=gmail&logoColor=white"/>
@@ -24,11 +24,9 @@
 
 <div align="center">
 
-### Building software. Exploring systems. Learning security.
+Self-taught developer interested in **cybersecurity, systems and software development**.
 
-Self-taught developer focused on **cybersecurity, software development and systems**.
-
-Currently spending most of my time with **Python**, Linux, networking and security-focused projects.
+I mainly work with Python and spend my time learning by building, experimenting and understanding how things work.
 
 </div>
 
@@ -36,17 +34,11 @@ Currently spending most of my time with **Python**, Linux, networking and securi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,c,cs,js,bash,linux,git,github,vscode&perline=10"/>
+**Currently**
+
+`Building` · `Learning` · `Researching` · `Experimenting`
 
 </div>
-
-<br>
-
-### Current
-
-**Building** — WARE and security-focused software
-**Learning** — Networking, systems & cybersecurity
-**Exploring** — Automation, security research & new technologies
 
 <br>
 
@@ -54,15 +46,17 @@ Currently spending most of my time with **Python**, Linux, networking and securi
 
 <a href="https://waresbot.netlify.app">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:06B6D4&height=100&text=WARE&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:06B6D4&height=90&text=WARE&fontSize=38&fontColor=ffffff"/>
 
 </a>
 
 <br>
 
-**A security-focused Discord + Web project.**
+Security-focused Discord + Web project.
 
-<a href="https://waresbot.netlify.app">Explore →</a>
+<br>
+
+<a href="https://waresbot.netlify.app">Explore WARE →</a>
 
 </div>
 
@@ -70,9 +64,9 @@ Currently spending most of my time with **Python**, Linux, networking and securi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LattesGit&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8&icon_color=06B6D4&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LattesGit&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8&icon_color=06B6D4&rank_icon=github"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LattesGit&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LattesGit&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8"/>
 
 </div>
 
@@ -89,13 +83,5 @@ Currently spending most of my time with **Python**, Linux, networking and securi
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
 <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>© LatenT · 2026</sub>
 
 </div>
