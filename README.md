@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:24113D,100:6D28D9&height=190&section=header&text=LatenT&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%26%20Security%20Enthusiast&descAlignY=60&descSize=15&descColor=C4B5FD" width="100%" alt="LatenT profile header"/>
 
