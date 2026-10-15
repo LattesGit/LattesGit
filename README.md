@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:24113D,100:6D28D9&height=180&section=header&text=LatenT&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%26%20Security%20Enthusiast&descAlignY=60&descSize=15&descColor=C4B5FD" width="100%" alt="LatenT"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060F,50:24113D,100:6D28D9&height=180&section=header&text=LatenT&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=15&descColor=C4B5FD" width="100%" alt="LatenT"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Learning+by+building;Exploring+systems+and+security;Writing+code%2C+solving+problems;Always+curious." alt="Introduction"/>
 
