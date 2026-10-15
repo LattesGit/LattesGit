@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # LatenT
@@ -61,4 +60,3 @@ I'm interested in understanding how technology works beneath the surface, learni
 <sub>Thanks for stopping by.</sub>
 
 </div>
-```
