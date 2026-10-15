@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09060F,50:1B1030,100:5B21B6&height=8" width="100%"/>
@@ -152,4 +151,3 @@ If you're interested in software, cybersecurity, or understanding how technology
 <sub>Designed with curiosity. Built through experimentation.</sub>
 
 </div>
-```
