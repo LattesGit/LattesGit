@@ -26,7 +26,7 @@ Learning by building, experimenting, and understanding how things work beneath t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,cs,js,linux&theme=dark" alt="Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,go,cs,js,cpp,linux&theme=dark" alt="Technologies"/>
 
 </div>
 
